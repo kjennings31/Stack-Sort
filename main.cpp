@@ -1,12 +1,11 @@
-// mainLab4.cpp (a good start)
+
 // This program tests various operations of a linked stack
-// (without any input error checks)
-// Written by (Your name goes here) 02/27/2017
+
 
 #include <fstream>
 #include <iomanip>
 #include <string>
-#include "linkedStack.h"            // more implementation is necessary
+#include "linkedStack.h"            
 
 using namespace std;
 string getString(int num);
